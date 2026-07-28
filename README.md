@@ -1,2 +1,2 @@
-# Project-Portfolio
-## Enmanuel Curiel
+# Enmanuel Curiel
+## Project Portfolio Repository
