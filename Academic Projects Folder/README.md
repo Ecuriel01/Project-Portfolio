@@ -1,1 +1,1 @@
-#Academic Projects Folder
+Academic Projects Folder
